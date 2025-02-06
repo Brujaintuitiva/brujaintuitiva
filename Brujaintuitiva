@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bruja Intuitiva - Tarot, Reiki y más</title>
+  <style>
+    /* Estilos generales */
+    body {
+      font-family: 'Arial', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #fff5f8;
+      color: #333;
+      line-height: 1.6;
+    }
+    header {
+      background-color: #f8c1d3;
+      padding: 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5em;
+      color: #fff;
+    }
+    nav {
+      background-color: #f0a1b2;
+      text-align: center;
+      padding: 10px 0;
+    }
+    nav a {
+      margin: 0 15px;
+      color: #fff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    section {
+      padding: 40px 20px;
+    }
+    .section-title {
+      text-align: center;
+      color: #d6336c;
+      margin-bottom: 20px;
+    }
+    .content {
+      max-width: 1000px;
+      margin: 0 auto;
+    }
+    .service {
+      border: 1px solid #f0a1b2;
+      background-color: #fff;
+      padding: 20px;
+      margin-bottom: 30px;
+      border-radius: 8px;
+      box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+    }
+    .service img {
+      width: 100%;
+      height: auto;
+      border-radius: 8px;
+      margin-bottom: 15px;
+    }
+    .service ul {
+      margin: 10px 0;
+      padding-left: 20px;
+    }
+    .price {
+      font-weight: bold;
+      color: #d6336c;
+    }
+    footer {
+      background-color: #f8c1d3;
+      text-align: center;
+      padding: 20px;
+      color: #fff;
+      font-size: 0.9em;
+    }
+    footer .disclaimer {
+      margin-top: 10px;
+      font-size: 0.8em;
+    }
+    /* Estilos para la lista de redes sociales */
+    #contacto ul {
+      list-style: none;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      gap: 15px;
+    }
+    #contacto ul li a {
+      color: #f0a1b2;
+      font-weight: bold;
+      text-decoration: none;
+    }
+    #contacto ul li a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <!-- Encabezado y Navegación -->
+  <header>
+    <h1>Bruja Intuitiva</h1>
+  </header>
+  <nav>
+    <a href="#inicio">Inicio</a>
+    <a href="#sobre-mi">Sobre Mí</a>
+    <a href="#tarot">Tarot</a>
+    <a href="#reiki">Reiki</a>
+    <a href="#lemuriano">Lemuriano</a>
+    <a href="#registros-akashicos">Registros Akáshicos</a>
+    <a href="#limpiezas-energeticas">Limpiezas Energéticas</a>
+    <a href="#contenido-gratuito">Contenido Gratuito</a>
+    <a href="#talleres-cursos">Talleres y Cursos</a>
+    <a href="#contacto">Contacto</a>
+  </nav>
+  
+  <!-- Sección Inicio -->
+  <section id="inicio">
+    <div class="content">
+      <h2 class="section-title">Bienvenido a Bruja Intuitiva</h2>
+      <p style="text-align: center;">
+        Descubre el poder de la intuición y la transformación espiritual. Explora nuestros servicios y encuentra el camino hacia una vida llena de armonía y recalibración energética.
+      </p>
+      <img src="https://via.placeholder.com/1000x400?text=Bienvenido+a+Bruja+Intuitiva" alt="Bienvenido a Bruja Intuitiva">
+    </div>
+  </section>
+  
+  <!-- Sección Sobre Mí -->
+  <section id="sobre-mi">
+    <div class="content">
+      <h2 class="section-title">Sobre Mí</h2>
+      <p>
+        ¡Bienvenido a Bruja Intuitiva! Soy <strong>Anahí</strong>, tengo 33 años y me considero un alma en continuo aprendizaje. Con más de <strong>8 años</strong> de experiencia en el tarot y terapias holísticas, he fusionado la sabiduría ancestral con técnicas modernas para ayudarte a transformar tu presente y crear un futuro brillante.
+      </p>
+      <p>
+        He integrado métodos como Registros Akáshicos, Péndulo Hebreo, Trabajo con Ángeles, Reiki, mesas radionicas y muchas otras técnicas. Sin embargo, fue mi formación en Coaching espiritual la que me brindó las herramientas para tratar cada aspecto del ser con sensibilidad, respeto y coherencia.
+      </p>
+      <p>
+        Te invito a embarcarte en este viaje de autoconocimiento y transformación, donde cada sesión es una oportunidad para recalibrar tu energía y potenciar tu crecimiento personal.
+      </p>
+    </div>
+  </section>
+  
+  <!-- Sección Servicios: Tarot -->
+  <section id="tarot">
+    <div class="content">
+      <h2 class="section-title">Tarot</h2>
+      
+      <!-- Sesión de Tarot -->
+      <div class="service">
+        <h3>Sesión de Tarot</h3>
+        <img src="https://via.placeholder.com/600x300?text=Sesión+de+Tarot" alt="Sesión de Tarot">
+        <p>
+          Sesión de una hora: Iniciamos con una tirada general y luego respondo a tus preguntas durante el transcurso de la sesión. Recuerda que mi enfoque es evolutivo y transformador: el poder del presente para gestar un futuro lleno de posibilidades. 
+<p class="price">Valor: 22.222</p>
+        </p>
+        <ul>
+          <li>Tirada general + 3 preguntas.</li>
+          <li>Tirada general y 3 preguntas específicas (video llamada o audios) – <strong>CON TURNO:</strong> una vez abonado, se agenda sin excepción.</li>
+        </ul> <p class="price">Valor: 12.222</p>
+      </div>
+      
+      <!-- Los Enamorados -->
+      <div class="service">
+        <h3>Los Enamorados</h3>
+        <img src="https://via.placeholder.com/600x300?text=Los+Enamorados" alt="Los Enamorados">
+        <p>
+          Tirada de vínculo (pareja, ex, chongo): Se analiza la energía del vínculo, los sentimientos y pensamientos de ambas partes. Incluye proyección del vínculo a tres meses, consejo y tres preguntas.
+        </p>
+        <p class="price">Valor: 12.222</p>
+        <p><em>Sólo audios. CON TURNO: una vez abonado se agenda sin excepción.</em></p>
+      </div>
+      
+      <!-- Mensajes del Más Allá -->
+      <div class="service">
+        <h3>Mensajes del Más Allá</h3>
+        <img src="https://via.placeholder.com/600x300?text=Mensajes+del+Más+Allá" alt="Mensajes del Más Allá">
+        <p>
+          Una experiencia única diseñada para aquellos que buscan conectar con el mundo espiritual y recibir mensajes de sus seres queridos que han trascendido.
+        </p>
+        <p>
+          La sesión aborda:
+        </p>
+        <ul>
+          <li>Energía del consultante.</li>
+          <li>¿Quién busca darle el mensaje?</li>
+          <li>¿Tiene un mensaje del más allá?</li>
+          <li>¿Cuál es el mensaje?</li>
+          <li>Consejo (incluye dos preguntas).</li>
+        </ul>
+        <p>
+          <em>Antes de la sesión, es útil que pienses en la persona o personas con las que te gustaría conectar. Tener una intención clara facilita la comunicación.</em>
+        </p>
+        <p class="price">Valor: 12.222</p>
+        <p><em>Sólo audios. CON TURNO: una vez abonado se agenda sin excepción.</em></p>
+      </div>
+      
+      <!-- Tarot Expres -->
+      <div class="service">
+        <h3>Tarot Expres</h3>
+        <img src="https://via.placeholder.com/600x300?text=Tarot+Expres" alt="Tarot Expres">
+        <p>
+          Respuestas a preguntas precisas y concretas durante el día (sin horario fijo). Envía tus preguntas una vez abonado y espera tu turno.
+        </p>
+        <ul> 
+          <li>3 Preguntas: $5.000</li>
+          <li>5 Preguntas: $7.000</li>
+          <li>Tirada General (Amor, Trabajo, Dinero, Espiritualidad): $10.000</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+  
+  <!-- Sección Registros Akáshicos -->
+  <section id="registros-akashicos">
+    <div class="content">
+      <h2 class="section-title">Registros Akáshicos</h2>
+      <div class="service">
+        <img src="https://via.placeholder.com/600x300?text=Registros+Akáshicos" alt="Registros Akáshicos">
+        <p>
+          Te invito a vivir una experiencia única de exploración y transformación a través de los Registros Akáshicos. Durante esta sesión, te guiaré para acceder a la sabiduría de tus registros, desvelando información valiosa que te ayudará a comprender diversos aspectos de tu vida.
+        </p>
+        <h4>La sesión incluye:</h4>
+        <ul>
+          <li>Meditación inicial para relajar tu mente y abrir tu corazón.</li>
+          <li>Conexión con tu ser superior, maestros y Guías Espirituales.</li>
+          <li>Definición de preguntas o temas a explorar (propósito, relaciones, amor, etc.).</li>
+          <li>Recepción de información, imágenes o sensaciones que revelan tu camino.</li>
+          <li>Proceso de entendimiento y liberación de bloqueos o patrones limitantes.</li>
+          <li>Cierre con gratitud, permitiéndote regresar suavemente al presente.</li>
+        </ul>
+        <p>
+          Esta sesión te brindará claridad, comprensión y un espacio sagrado y amoroso.
+        </p>
+        <p class="price">Valor: 22.222</p>
+        <p><em>Video llamada o audios. Se abona al momento de solicitar el turno.</em></p>
+      </div>
+    </div>
+  </section>
+  
+  <!-- Sección Reiki -->
+  <section id="reiki">
+    <div class="content">
+      <h2 class="section-title">Reiki y Recalibración Energética</h2>
+      <div class="service">
+        <img src="https://via.placeholder.com/600x300?text=Reiki+y+Recalibración+Energética" alt="Reiki y Recalibración Energética">
+        <p>
+          Experimenta una profunda armonía y recalibración energética a través de sesiones de Reiki. Este método complementario te ayuda a equilibrar tu energía, promoviendo un bienestar integral y una transformación interior.
+        </p>
+        <p>
+          <em>Online (video llamada o audios). Una vez abonado se agenda el turno sin excepción.</em>
+        </p>
+      </div>
+    </div>
+  </section>
+  
+  <!-- Sección Terapia Lemuriana -->
+  <section id="lemuriano">
+    <div class="content">
+      <h2 class="section-title">Terapia Lemuriana</h2>
+      <div class="service">
+        <img src="https://via.placeholder.com/600x300?text=Terapia+Lemuriana" alt="Terapia Lemuriana">
+        <p>
+          Sumérgete en una experiencia ancestral con la Terapia Lemuriana. Inspirada en la sabiduría de tiempos antiguos, esta técnica desbloquea energías y potencia tu crecimiento personal y espiritual.
+        </p>
+        <p>
+          <em>Online (video llamada o audios). Consulta disponibilidad y abono para agendar tu turno.</em>
+        </p>
+      </div>
+    </div>
+  </section>
+  
+  <!-- Sección Limpiezas Energéticas -->
+  <section id="limpiezas-energeticas">
+    <div class="content">
+      <h2 class="section-title">Limpiezas Energéticas</h2>
+      <div class="service">
+        <img src="https://via.placeholder.com/600x300?text=Limpiezas+Energéticas" alt="Limpiezas Energéticas">
+        <p>
+          Realiza una profunda recalibración para liberar bloqueos y restablecer el equilibrio en tu ser. Nuestras limpiezas energéticas te ayudarán a renovar tu vitalidad y potenciar tu bienestar integral.
+        </p>
+        <p>
+          <em>Online (video llamada o audios). Una vez abonado se agenda el turno sin excepción.</em>
+        </p>
+      </div>
+    </div>
+  </section>
+  
+  <!-- Sección Contenido Gratuito -->
+  <section id="contenido-gratuito">
+    <div class="content">
+      <h2 class="section-title">Contenido Gratuito</h2>
+      <div class="service">
+        <img src="https://via.placeholder.com/600x300?text=Contenido+Gratuito" alt="Contenido Gratuito">
+        <p>
+          Descubre artículos, videos y recursos gratuitos diseñados para inspirar tu camino de autoconocimiento y transformación espiritual. Mantente informado y empoderado con contenido de valor que te guiará en cada paso de tu evolución.
+        </p>
+      </div>
+    </div>
+  </section>
+  
+  <!-- Sección Talleres y Cursos -->
+  <section id="talleres-cursos">
+    <div class="content">
+      <h2 class="section-title">Talleres y Cursos</h2>
+      <div class="service">
+        <img src="https://via.placeholder.com/600x300?text=Talleres+y+Cursos" alt="Talleres y Cursos">
+        <p>
+          Próximamente podrás acceder a talleres y cursos diseñados para profundizar en diversas técnicas espirituales y de autoconocimiento. ¡Mantente atento a las novedades y prepárate para transformar tu vida!
+        </p>
+      </div>
+    </div>
+  </section>
+  
+  <!-- Sección Contacto -->
+  <section id="contacto">
+    <div class="content">
+      <h2 class="section-title">Contacto</h2>
+      <p style="text-align: center;">Conecta conmigo a través de mis redes sociales:</p>
+      <ul>
+        <li><a href="https://instagram.com/" target="_blank">Instagram</a></li>
+        <li><a href="https://wa.me/" target="_blank">WhatsApp</a></li>
+        <li><a href="https://facebook.com/" target="_blank">Facebook</a></li>
+        <li><a href="https://youtube.com/" target="_blank">YouTube</a></li>
+      </ul>
+    </div>
+  </section>
+  
+  <!-- Pie de Página -->
+  <footer>
+    <p>© 2025 Bruja Intuitiva. Todos los derechos reservados.</p>
+    <p class="disclaimer">
+      Estas sesiones son alternativas y no reemplazan tratamientos médicos, consultas psicológicas ni asesoramiento profesional. Cada persona es responsable de sus decisiones. Las sesiones se realizan mediante video llamada o audios, y una vez abonado se agenda el turno sin excepción.
+    </p>
+  </footer>
+</body>
+</html>
